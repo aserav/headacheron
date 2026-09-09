@@ -1,10 +1,11 @@
 # headacheron
 
+### Scroll to the bottom of this README for preview images.
+
 A cleaned-up Linux/headless Acheron build for Discord radio streaming, browser control, ICY metadata, and Rich Presence.
 
 This package is branded externally as **headacheron**:
 
-### scroll to bottom of readme for preview images!
 
 - package folder: `headacheron/`
 - executable: `headacheron`
