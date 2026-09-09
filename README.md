@@ -1,6 +1,18 @@
 # headacheron
+<table>
+  <tr>
+    <td><img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/91d72625-980c-49a4-b2ae-10c8a16fe698" /></td>
+    <td><img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/950dd3f6-2848-4b97-9511-648b6b60833e" /></td>
+    <td><img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/87f9d6bd-6e6f-47f9-8237-1a11f07e587e" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/b3bcee17-fa09-4d84-bf2b-09672f47642e" /></td>
+    <td><img width="400" alt="Screenshot" src="https://github.com/user-attachments/assets/0ee443dd-8398-4414-b35f-3286f96b0a99" /></td>
+    <td></td>
+  </tr>
+</table>
 
-### Scroll to the bottom of this README for preview images.
+
 
 A cleaned-up Linux/headless Acheron build for Discord radio streaming, browser control, ICY metadata, and Rich Presence.
 
@@ -15,6 +27,8 @@ This package is branded externally as **headacheron**:
 - installer variables: `HEADACHERON_*`
 
 The underlying Discord/client code is based on the upstream Acheron project.
+
+
 
 ## Install
 
@@ -141,9 +155,5 @@ The uninstaller intentionally does not remove system packages because they may b
 The Web UI is HTTP, not HTTPS. Keep it on a trusted LAN, private VPN, SSH tunnel, or HTTPS reverse
 proxy. Do not expose the raw control port directly to the public internet.
 
-<img width="2554" height="1300" alt="Screenshot 2026-09-08 213147" src="https://github.com/user-attachments/assets/0ee443dd-8398-4414-b35f-3286f96b0a99" />
-<img width="2558" height="1304" alt="Screenshot 2026-09-08 213140" src="https://github.com/user-attachments/assets/b3bcee17-fa09-4d84-bf2b-09672f47642e" />
-<img width="2556" height="1307" alt="Screenshot 2026-09-08 213134" src="https://github.com/user-attachments/assets/87f9d6bd-6e6f-47f9-8237-1a11f07e587e" />
-<img width="2557" height="1311" alt="Screenshot 2026-09-08 213128" src="https://github.com/user-attachments/assets/950dd3f6-2848-4b97-9511-648b6b60833e" />
-<img width="2553" height="1305" alt="Screenshot 2026-09-08 213121" src="https://github.com/user-attachments/assets/91d72625-980c-49a4-b2ae-10c8a16fe698" />
+
 <img width="2547" height="1343" alt="Screenshot 2026-09-08 213112" src="https://github.com/user-attachments/assets/a96960ac-f5e9-4550-a3b3-ab86cc32ba6a" />
